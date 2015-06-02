@@ -1,0 +1,26 @@
+{
+  "name": "bootstrap-gh-pages",
+  "description": "Bootstrap custom version for my own github pages",
+  "version": "0.0.0",
+  "keywords": [
+    "bootstrap",
+    "template",
+    "github",
+    "pages"
+  ],
+  "repository": "andrepolischuk/bootstrap-gh-pages",
+  "dependencies": {
+    "bootstrap": "^3.3.4"
+  },
+  "devDependencies": {
+    "less": "^2.5.1",
+    "less-plugin-autoprefix": "^1.4.2"
+  },
+  "style": "index.css",
+  "scripts": {
+    "prebuild": "rm -rf index.css",
+    "build": "lessc --autoprefix=\"Android 2.3, Android >= 4, Chrome >= 20, Firefox >= 24, Explorer >= 8, iOS >= 6, Opera >= 12, Safari >= 6\" index.less > index.css"
+  },
+  "author": "Andrey Polischuk <andre.polischuk@gmail.com>",
+  "license": "MIT"
+}
