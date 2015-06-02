@@ -20,7 +20,7 @@ body {
 }
 ```
 
-  Make `build.css` with [postcss](postcss) and [postcss-import](postcss-import):
+  Make `build.css` with [postcss][postcss] and [postcss-import][postcss-import]:
 
 ```sh
 postcss --use postcss-import index.css > build.css
