@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-gh-pages",
-  "description": "Bootstrap custom version for my own github pages",
+  "description": "Bootstrap custom build without scripts and icons",
   "version": "0.0.0",
   "keywords": [
     "bootstrap",

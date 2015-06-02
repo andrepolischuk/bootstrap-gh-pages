@@ -1,6 +1,8 @@
 # bootstrap-gh-pages
 
-  > Bootstrap custom version for my own github pages
+  > Bootstrap custom build without scripts and icons
+
+  For my own github pages
 
 ## Instalation
 
