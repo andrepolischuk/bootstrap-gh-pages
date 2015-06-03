@@ -5197,4 +5197,13 @@ body {
 }
 .jumbotron {
   background-color: #fff;
+  text-align: center;
+}
+.page-header:first-child {
+  margin-top: 0;
+}
+@media (min-width: 768px) {
+  .jumbotron {
+    text-align: left;
+  }
 }
