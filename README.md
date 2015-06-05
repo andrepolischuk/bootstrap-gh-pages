@@ -4,7 +4,7 @@
 
   For my own github pages
 
-## Instalation
+## Install
 
 ```sh
 npm install --save bootstrap-gh-pages
