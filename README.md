@@ -1,6 +1,6 @@
 # bootstrap-gh-pages
 
-  > Bootstrap custom build without scripts and icons
+  > [Bootstrap](http://getbootstrap.com) custom build without scripts and icons
 
   For my own github pages
 
